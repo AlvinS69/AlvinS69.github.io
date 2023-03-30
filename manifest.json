@@ -3,37 +3,37 @@
     "short_name": "PWAGram",
     "icons": [
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "48x48"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "144x144"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "256x256"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "384x384"
       },
       {
-        "src": "E:/LINE Downloads/anyalontong.jpg",
+        "src": "anyalontong.jpg",
         "type": "image/png",
         "sizes": "512x512"
       }
